@@ -77,7 +77,7 @@ Git
 Clone the repository and set up a local virtual environment:
 
 Bash
-git clone [https://github.com/TU_USUARIO/financial-fraud-pipeline.git](https://github.com/TU_USUARIO/financial-fraud-pipeline.git)
+git clone [https://github.com/TU_USUARIO/financial-fraud-pipeline.git](https://github.com/SalmaIF00/financial-fraud-pipeline.git)
 cd financial-fraud-pipeline
 python3 -m venv .venv
 source .venv/bin/activate
